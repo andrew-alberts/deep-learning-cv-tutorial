@@ -2,4 +2,4 @@
 
 Tutorial introducing deep learning with Keras and TensorFlow. The task is a simple computer vision application (image classification) on the Stanford Cars196 dataset.
 
-Contents are entirely accessible through the notebook.
+Contents are entirely accessible via the notebook.
